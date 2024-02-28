@@ -11,4 +11,4 @@ With **Bettera**, you can bet on any event (for now, sports) and receive the pri
 - Soccer football matches (Results: Home, Draw, and Away).
 
 ## Smart contracts:
-- SoccerBetContract: For soccer bets.
+- SoccerEventWithFixedAmountContract.sol: For soccer bets.
