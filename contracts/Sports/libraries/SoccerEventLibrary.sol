@@ -26,5 +26,6 @@ library SoccerEventLibrary {
         uint256 amount;
         Result chosenResult;
         bool paid;
+        bool isWinner;
     }
 }
